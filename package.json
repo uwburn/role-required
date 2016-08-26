@@ -1,11 +1,17 @@
 {
-  "name": "role-required",
-  "version": "0.0.1",
+  "name": "role-required-express",
+  "version": "1.0.0",
   "main": "roleRequired.js",
+  "description": "Express middleware to check roles in the session",
+  "author": { 
+    "name" : "Michele Tibaldi", 
+    "url" : "https://github.com/uwburn/"
+  },
   "repository": {
     "type": "git",
     "url" : "https://github.com/uwburn/role-required.git"
   },
+  "license": "LGPL-3.0",
   "dependencies": {
     "http-error": "https://github.com/uwburn/http-error.git"
   }
