@@ -4,9 +4,9 @@
   "main": "roleRequired.js",
   "repository": {
     "type": "git",
-    "url" : "git://192.168.1.10/role-required.git"
+    "url" : "https://github.com/uwburn/role-required.git"
   },
   "dependencies": {
-    "http-error": "git://192.168.1.10/http-error.git"
+    "http-error": "https://github.com/uwburn/http-error.git"
   }
 }
