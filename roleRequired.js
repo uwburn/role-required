@@ -1,4 +1,4 @@
-var HttpError = require('http-error');
+var HttpError = require('http-error-prototype');
 
 module.exports = function(opts) {
 	opts = opts || {};

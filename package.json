@@ -1,6 +1,6 @@
 {
   "name": "role-required-express",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "main": "roleRequired.js",
   "description": "Express middleware to check roles in the session",
   "author": { 
@@ -13,6 +13,6 @@
   },
   "license": "LGPL-3.0",
   "dependencies": {
-    "http-error": "https://github.com/uwburn/http-error.git"
+    "http-error-prototype": "^1.0.0"
   }
 }
